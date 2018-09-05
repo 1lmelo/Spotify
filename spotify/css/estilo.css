@@ -1,0 +1,33 @@
+#Busca{
+	position: relative;
+  background-color: white;
+  border:solid 1px;
+  border-radius:15px;
+  width: 600px;
+  left: 30%;
+
+}
+
+#btnBusca{
+	position: relative;
+	width: 20px;
+	height: 20px;
+	float: right;
+}
+
+h1{
+	text-align: center;
+
+}
+
+
+#lista-musica{
+	list-style-type:none
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 30px 30px 30px;
+}
+
+hr{
+	margin-left: 0px;
+}
